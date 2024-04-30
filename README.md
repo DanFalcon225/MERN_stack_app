@@ -42,6 +42,7 @@ npm i
 ```
 
 4) Run following command into the **backend** and **frontend** directories
+   
 ```bash
-  npm run dev
+npm run dev
 ```
