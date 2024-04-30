@@ -1,4 +1,4 @@
-# Book Library - MERN stack app
+# Book's Library - MERN stack app
 
 The current project primarily focuses on showcasing the core functionality of the online library. It includes the following features:
 
