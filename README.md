@@ -8,7 +8,7 @@ The current project primarily focuses on showcasing the core functionality of th
 * Editing book details, including title, author, and genre.
 * Removing books from the library database.
 
-**Backend CRUD|Backend Router|CORS Policy|MongoDB operations|Frontend CRUD|Frontend Router**
+**Backend CRUD | Backend Router | CORS Policy | MongoDB operations | Frontend CRUD | Frontend Router**
 
 
 
