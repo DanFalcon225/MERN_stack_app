@@ -29,13 +29,13 @@ To deploy this project need to follow below steps
  2) A **config.js** file needs to be create in **backend** folder where corresponding local host port and link to database instance needs to be put.
 
  ```bash
-    export const PORT = 5555;
-    export const mongoDBURL = 
-    //your db url goes her//
+export const PORT = 5555;
+export const mongoDBURL = 
+//your db url goes her//
  ``` 
  Make sure that collection name is **books-collection** and localhost port **5555**
 
-3) Please run following command in frontend and backend directories to install remaining dependencies:
+3) Please run following command in frontend and backend directory to install remaining dependencies:
 
 ```bash
 npm i
