@@ -35,7 +35,7 @@ To deploy this project need to follow below steps
  ``` 
  Make sure that collection name is **books-collection** and localhost port **5555**
 
-3) Please note run following command in frontend and backend directories to install remaining dependencies:
+3) Please run following command in frontend and backend directories to install remaining dependencies:
 
 ```bash
 npm i
