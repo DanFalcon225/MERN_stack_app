@@ -35,15 +35,19 @@ To deploy this project need to follow below steps
  ``` 
  Make sure that collection name is **books-collection** and localhost port **5555**
 
-3) Please note that "node_modules" file has been excluded from the current repository so, please make sure to run following commands in order to install relevant packages for the application:
+3) Please note that "node_modules" file has been excluded from the current repository so, please make sure to run following command in order to install relevant packages for the application in backend folder:
 
 ```bash
-npm i express dotenv ejs node-fetch
+npm i
 ```
-```bash
-npm i nodemode --save-dev
-```
+
 Nodemon package - enable to change the application without stopping the server
+
+3.1) In frontend folder following command needs to be run to install remaining dependencies
+
+```bash
+npm i
+```
 
 4) Run following command into the **backend** and **frontend** directories
 ```bash
