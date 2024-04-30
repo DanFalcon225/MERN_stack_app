@@ -1,4 +1,3 @@
-
 # Book Library - MERN stack app
 
 The current project primarily focuses on showcasing the core functionality of the online library. It includes the following features:
@@ -36,7 +35,17 @@ To deploy this project need to follow below steps
  ``` 
  Make sure that collection name is **books-collection** and localhost port **5555**
 
-3) Run following command into the **backend** and **frontend** directories
+3) Please note that "node_modules" file has been excluded from the current repository so, please make sure to run following commands in order to install relevant packages for the application:
+
+```bash
+npm i express dotenv ejs node-fetch
+```
+```bash
+npm i nodemode --save-dev
+```
+Nodemon package - enable to change the application without stopping the server
+
+4) Run following command into the **backend** and **frontend** directories
 ```bash
   npm run dev
 ```
