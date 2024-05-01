@@ -4,7 +4,7 @@ The current project primarily focuses on showcasing the core functionality of th
 
 * Adding new books to the library database, including details such as title, author, and publication date.
 * Viewing existing books in the library database.
-* Editing book details, including title, author, and genre.
+* Editing book details, including title, author etc.
 * Removing books from the library database.
 
 **Backend CRUD | Backend Router | CORS Policy | MongoDB operations | Frontend CRUD | Frontend Router**
